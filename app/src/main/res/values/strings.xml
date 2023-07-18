@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="reviews_you_can_scroll_it">Reviews (you can scroll it):</string>
+    <string name="empty_list_message">The list of favorite movies is empty</string>
+    <string name="try_again">Try again</string>
+    <string name="error_no_internet">No internet connection available\nTry again</string>
+    <string name="error_bad_response">There are problems on server\nTry later</string>
+    <string name="error_general">Internal error has occurred\nTry again</string>
+    <string name="error_while_loading_trailers">Error while loading trailers</string>
+    <string name="error_while_loading_reviews">Error while loading reviews</string>
+</resources>
